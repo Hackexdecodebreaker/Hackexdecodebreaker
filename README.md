@@ -1,18 +1,22 @@
 # Hackexdecodebreaker
 
 ## About Me
-I am a computer scientist with a primary focus on cybersecurity. My work spans building enterprise-grade network monitoring systems, management platforms, and automated solutions that enhance efficiency and security.  
-I am passionate about developing reconnaissance tools, exploring unconventional approaches to problem solving, and creating systems that empower organizations to operate securely and effectively.  
-I am also expanding my expertise in JavaScript, Bootstrap, and MongoDB, and I am ready to learn, grow, and collaborate on impactful projects.
+I am a computer scientist with a primary focus on cybersecurity. My work spans building enterprise-grade network monitoring systems, management platforms, automated solutions, and remote access tools that enhance efficiency and security.  
+I am passionate about developing reconnaissance utilities, exploring unconventional approaches to problem solving, and creating systems that empower organizations to operate securely and effectively.  
+I am also expanding my expertise in MongoDB and continuously seeking opportunities to learn and collaborate on impactful projects.
+
+---
 
 ## Areas of Expertise
-- Cybersecurity: Ethical hacking, web application security, reconnaissance tools, penetration testing, and security-focused automation  
-- Enterprise Systems: Network monitoring platforms, role-based management systems, and analytics-driven workflows  
-- Software Development: Scalable applications using PHP, Python (Flask), and Java  
-- Databases: MySQL, SQL Server, SQLAlchemy, MongoDB (learning)  
-- Automation: Intelligent systems that streamline operations and reduce manual overhead  
-- Systems Engineering: Linux environments, Bash scripting, Docker-based deployments  
-- Creative Engineering: VR/AR scenes with A-Frame and advanced 3D integration  
+- **Cybersecurity**: Ethical hacking, web application security, reconnaissance tools, penetration testing, remote access tools, and security-focused automation  
+- **Enterprise Systems**: Network monitoring platforms, role-based management systems, and analytics-driven workflows  
+- **Software Development**: Scalable applications using PHP, Python (Flask), and Java  
+- **Databases**: MySQL, SQL Server, SQLAlchemy, MongoDB (learning)  
+- **Automation**: Intelligent systems that streamline operations and reduce manual overhead  
+- **Systems Engineering**: Linux environments, Bash scripting, Docker-based deployments  
+- **Creative Engineering**: VR/AR scenes with A-Frame and advanced 3D integration  
+
+---
 
 ## Tech Stack & Tools
 
@@ -33,29 +37,36 @@ I am also expanding my expertise in JavaScript, Bootstrap, and MongoDB, and I am
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-2E8B57?style=for-the-badge&logo=hackaday&logoColor=white)
 ![Ethical Hacking](https://img.shields.io/badge/Ethical%20Hacker-000000?style=for-the-badge&logo=protonvpn&logoColor=white)
 ![Web App Security](https://img.shields.io/badge/Web%20App%20Security-00599C?style=for-the-badge&logo=owasp&logoColor=white)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Remote Access Tools](https://img.shields.io/badge/Remote%20Access%20Tools-1E90FF?style=for-the-badge&logo=gnometerminal&logoColor=white)
 
 ![A-Frame](https://img.shields.io/badge/A--Frame-ED1C24?style=for-the-badge&logo=aframe&logoColor=white)
+
+---
 
 ## Featured Projects
 - **Reconnaissance Tools** – Purpose-built utilities for ethical security testing and research  
 - **Enterprise Network Monitoring System** – Real-time monitoring and analytics for large-scale infrastructures  
 - **Automated Management Systems** – Secure platforms with workflow automation and role-based access  
+- **Remote Access Tools** – Secure and efficient solutions for controlled system access  
 - **Cybersecurity Simulations** – Ethical demonstrations of vulnerabilities for educational and research purposes  
-- **Immersive VR  Scene** – A-Frame project showcasing realism and interactive design  
+- **Immersive VR Restaurant Scene** – A-Frame project showcasing realism and interactive design  
+
+---
 
 ## Current Focus
 - Advancing research in cybersecurity and enterprise network monitoring  
-- Building tools that streamline reconnaissance and penetration testing workflows  
-- Expanding knowledge in JavaScript, Bootstrap, and MongoDB  
+- Building tools that streamline reconnaissance, penetration testing, and remote access workflows  
+- Expanding knowledge in MongoDB and other modern technologies  
 - Collaborating on projects that combine security, automation, and innovation  
+
+---
 
 ## GitHub Analytics
 ![Hackexdecodebreaker's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hackexdecodebreaker&show_icons=true&theme=dark)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hackexdecodebreaker&layout=compact&theme=dark)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hackexdecodebreaker&theme=dark)  
+
+---
 
 ## Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/felix-koomson-43745024a)  
