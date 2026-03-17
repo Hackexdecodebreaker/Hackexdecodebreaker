@@ -1,9 +1,9 @@
 # Hackexdecodebreaker
 
 ## About Me
-I am a computer scientist with a primary focus on cybersecurity. My work spans building enterprise-grade network monitoring systems, management platforms, automated solutions, and remote access tools that enhance efficiency and security.  
-I am passionate about developing reconnaissance utilities, exploring unconventional approaches to problem solving, and creating systems that empower organizations to operate securely and effectively.  
-I am also expanding my expertise in MongoDB and continuously seeking opportunities to learn and collaborate on impactful projects.
+I am a computer scientist with a primary focus on cybersecurity. My work spans building enterprise-grade network monitoring systems, management platforms, automated solutions, reconnaissance utilities, and remote access tools.  
+I am passionate about designing secure systems, exploring unconventional approaches to problem solving, and creating tools that empower organizations to operate securely and efficiently.  
+I also develop Telegram applications and bots, and I am continuously expanding my expertise in MongoDB and other modern technologies. I am ready to learn, grow, and collaborate on impactful projects.
 
 ---
 
@@ -14,6 +14,7 @@ I am also expanding my expertise in MongoDB and continuously seeking opportuniti
 - **Databases**: MySQL, SQL Server, SQLAlchemy, MongoDB (learning)  
 - **Automation**: Intelligent systems that streamline operations and reduce manual overhead  
 - **Systems Engineering**: Linux environments, Bash scripting, Docker-based deployments  
+- **Telegram Development**: Bots and applications using Telepot and Python integrations  
 - **Creative Engineering**: VR/AR scenes with A-Frame and advanced 3D integration  
 
 ---
@@ -39,6 +40,11 @@ I am also expanding my expertise in MongoDB and continuously seeking opportuniti
 ![Web App Security](https://img.shields.io/badge/Web%20App%20Security-00599C?style=for-the-badge&logo=owasp&logoColor=white)
 ![Remote Access Tools](https://img.shields.io/badge/Remote%20Access%20Tools-1E90FF?style=for-the-badge&logo=gnometerminal&logoColor=white)
 
+![Socket](https://img.shields.io/badge/Socket%20Library-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyAutoGUI](https://img.shields.io/badge/PyAutoGUI-FFD43B?style=for-the-badge&logo=python&logoColor=black)
+![FTP](https://img.shields.io/badge/FTP%20Library-306998?style=for-the-badge&logo=python&logoColor=white)
+![Telepot](https://img.shields.io/badge/Telepot-0088CC?style=for-the-badge&logo=telegram&logoColor=white)
+
 ![A-Frame](https://img.shields.io/badge/A--Frame-ED1C24?style=for-the-badge&logo=aframe&logoColor=white)
 
 ---
@@ -48,15 +54,16 @@ I am also expanding my expertise in MongoDB and continuously seeking opportuniti
 - **Enterprise Network Monitoring System** – Real-time monitoring and analytics for large-scale infrastructures  
 - **Automated Management Systems** – Secure platforms with workflow automation and role-based access  
 - **Remote Access Tools** – Secure and efficient solutions for controlled system access  
+- **Telegram Bots & Apps** – Automation and communication tools built with Telepot  
 - **Cybersecurity Simulations** – Ethical demonstrations of vulnerabilities for educational and research purposes  
-- **Immersive VR Restaurant Scene** – A-Frame project showcasing realism and interactive design  
+- **Immersive VR  Scene** – A-Frame project showcasing realism and interactive design  
 
 ---
 
 ## Current Focus
 - Advancing research in cybersecurity and enterprise network monitoring  
 - Building tools that streamline reconnaissance, penetration testing, and remote access workflows  
-- Expanding knowledge in MongoDB and other modern technologies  
+- Expanding knowledge in MongoDB and advanced Python libraries  
 - Collaborating on projects that combine security, automation, and innovation  
 
 ---
