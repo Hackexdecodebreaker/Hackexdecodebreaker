@@ -40,6 +40,7 @@ I also develop Telegram applications and bots, and I am continuously expanding m
 ![Web App Security](https://img.shields.io/badge/Web%20App%20Security-00599C?style=for-the-badge&logo=owasp&logoColor=white)
 ![Remote Access Tools](https://img.shields.io/badge/Remote%20Access%20Tools-1E90FF?style=for-the-badge&logo=gnometerminal&logoColor=white)
 
+![PowerShell](https://img.shields.io/badge/PowerShell-2CA5E0?style=for-the-badge&logo=powershell&logoColor=white)
 ![Socket](https://img.shields.io/badge/Socket%20Library-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyAutoGUI](https://img.shields.io/badge/PyAutoGUI-FFD43B?style=for-the-badge&logo=python&logoColor=black)
 ![FTP](https://img.shields.io/badge/FTP%20Library-306998?style=for-the-badge&logo=python&logoColor=white)
