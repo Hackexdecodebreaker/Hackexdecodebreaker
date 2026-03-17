@@ -70,9 +70,13 @@ I also develop Telegram applications and bots, and I am continuously expanding m
 ---
 
 ## GitHub Analytics
-![Hackexdecodebreaker's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hackexdecodebreaker&show_icons=true&theme=dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hackexdecodebreaker&layout=compact&theme=dark)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hackexdecodebreaker&theme=dark)  
+<div align="center">
+
+| GitHub Stats | Top Languages | Streak |
+|--------------|---------------|--------|
+| ![Stats](https://github-readme-stats.vercel.app/api?username=Hackexdecodebreaker&show_icons=true&theme=dark) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hackexdecodebreaker&layout=compact&theme=dark) | ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hackexdecodebreaker&theme=dark) |
+
+</div>
 
 ---
 
