@@ -15,7 +15,7 @@ I also develop Telegram applications and bots, and I am continuously expanding m
 - **Automation**: Intelligent systems that streamline operations and reduce manual overhead  
 - **Systems Engineering**: Linux environments, Bash scripting, Docker-based deployments  
 - **Telegram Development**: Bots and applications using Telepot and Python integrations  
-- **Creative Engineering**: VR/AR scenes with A-Frame and advanced 3D integration  
+- **Creative Engineering**: VR /Web XR development with Aframe  
 
 ---
 
