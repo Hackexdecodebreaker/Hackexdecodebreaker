@@ -1,7 +1,7 @@
 # Hackexdecodebreaker
 
 ## About Me
-I am a computer scientist with a primary focus on cybersecurity. My work spans building enterprise-grade network monitoring systems, management platforms, automated solutions, reconnaissance utilities, and remote access tools.  
+I am a computer scientist and an enginneer with a primary focus on cybersecurity. My work spans building enterprise-grade network monitoring systems, management platforms, automated solutions, reconnaissance utilities, and remote access tools.  
 I am passionate about designing secure systems, exploring unconventional approaches to problem solving, and creating tools that empower organizations to operate securely and efficiently.  
 I also develop Telegram applications and bots, and I am continuously expanding my expertise in MongoDB and other modern technologies. I am ready to learn, grow, and collaborate on impactful projects.
 
