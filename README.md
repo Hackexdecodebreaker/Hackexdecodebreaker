@@ -136,7 +136,7 @@ HAVE TO     WANT░█     IT BAD           ENOUGH
 ### `root@fsociety:~# cat /etc/contact.conf`
 
 ```
-LINKEDIN  ::  https://www.linkedin.com/in/felix-koomson
+
 YOUTUBE   ::  https://www.youtube.com/@Techmania00
 BLOG      ::  https://xcyberex00.wordpress.com/
 
