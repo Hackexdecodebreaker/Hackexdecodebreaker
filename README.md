@@ -15,31 +15,41 @@
   ░                                              ░ ░     
 ```
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00FF41&background=0D1117&center=true&vCenter=true&width=650&height=60&lines=Hello%2C+friend.;whoami;Felix+Koomson+%E2%80%94+security+%2B+software+engineer;Are+you+watching+closely%3F;Access+granted." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00FF41&background=0D1117&center=true&vCenter=true&width=650&height=60&lines=Hello%2C+friend.;whoami;Felix+Koomson+%E2%80%94+security+%2B+software+engineer;Are+you+watching+closely%3F;We+do+not+forgive.+We+do+not+forget.;Access+granted." alt="Typing SVG" />
 
+<img src="https://raw.githubusercontent.com/Hackexdecodebreaker/Hackexdecodebreaker/main/matrix-rain.svg" width="100%"/>
 
-<img src="./matrix-rain.svg" width="100%"/>
+`01001000 01100001 01100011 01101011 00100000 01110100 01101000 01100101 00100000 01110000 01101100 01100001 01101110 01100101 01110100`
+
+![status](https://img.shields.io/badge/STATUS-ONLINE-00FF41?style=for-the-badge&labelColor=0D1117)
+![access](https://img.shields.io/badge/ACCESS-ROOT-00FF41?style=for-the-badge&labelColor=0D1117)
+![trace](https://img.shields.io/badge/TRACE-BLOCKED-00FF41?style=for-the-badge&labelColor=0D1117)
+![encryption](https://img.shields.io/badge/ENCRYPTION-AES--256-00FF41?style=for-the-badge&labelColor=0D1117)
 
 </div>
 
-```bash
-guest@fsociety:~$ whoami
+---
+
+```
+root@fsociety:~# whoami
 ```
 ```
 Felix Koomson — computer scientist / security engineer
 Primary directive: break things, then explain how to fix them.
+Clearance level: root. Trust: none. Logs: cleared.
 ```
 
-```bash
-guest@fsociety:~$ cat mission.txt
+```
+root@fsociety:~# cat mission.txt
 ```
 > I build the things that watch the network, and I build the things that
 > test whether the network is actually watching. Cybersecurity and software
 > engineering are the core loop — everything else below is a side process.
+> Control is an illusion — until you're the one holding it.
 
 ---
 
-### `> ls -la /skills`
+### `root@fsociety:~# ls -la /skills`
 
 ```
 drwxr-xr-x  cybersecurity/        # pentesting, recon, exploit research
@@ -47,6 +57,7 @@ drwxr-xr-x  software-engineering/ # enterprise platforms, automation, backend
 drwxr-xr-x  telegram-dev/         # bots + apps, telepot + python
 drwxr-xr-x  databases/            # mysql, sql server, sqlalchemy, mongodb (wip)
 drwxr-xr-x  webxr/                # a-frame, vr experiments
+-rw-------  classified.txt        # permission denied
 ```
 
 <table>
@@ -78,7 +89,7 @@ drwxr-xr-x  webxr/                # a-frame, vr experiments
 
 ---
 
-### `> cat /proc/stack`
+### `root@fsociety:~# cat /proc/stack`
 
 ![PHP](https://img.shields.io/badge/PHP-000000?style=flat-square&logo=php&logoColor=00FF41)
 ![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=00FF41)
@@ -96,7 +107,7 @@ drwxr-xr-x  webxr/                # a-frame, vr experiments
 
 ---
 
-### `> ./run_stats.sh`
+### `root@fsociety:~# ./run_stats.sh`
 
 <div align="center">
 
@@ -105,27 +116,40 @@ drwxr-xr-x  webxr/                # a-frame, vr experiments
 
 <img src="https://streak-stats.demolab.com/?user=Hackexdecodebreaker&theme=dark&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" width="70%" />
 
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hackexdecodebreaker&theme=github-compact&bg_color=0D1117&color=00FF41&line=00FF41&point=CFFFE0&area=true&hide_border=true" width="90%" />
 
 </div>
 
 ---
 
-### `> cat /etc/contact.conf`
+### `root@fsociety:~# cat warning.txt`
 
 ```
-LINKEDIN  ::  https://www.linkedin.com/in/felix-koomson
-YOUTUBE   ::  https://www.youtube.com/@Techmania00
+██████████████████████████████████████████████████████
+█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█
+█░  ⚠  EVERYTHING IS OPEN-SOURCE IF YOU JUST KNOW  ⚠      ░█
+█░  HOW TO GET IT... INFORMATION IS ALL AROUND.YOU JUS
+HAVE TO     WANT░█     IT BAD           ENOUGH
+█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█
+██████████████████████████████████████████████████████
+```
+
+---
+
+### `root@fsociety:~# cat /etc/contact.conf`
+
+```
+LINKEDIN  ::  https://www.linkedin.com/in/felix-koomson-43745024a
+YOUTUBE   ::  https://www.youtube.com/@Techmania00/videos
 BLOG      ::  https://xcyberex00.wordpress.com/
 PORTFOLIO ::  https://xcyberexportfolio.vercel.app
-
+EMAIL     ::  fkoomson625@gmail.com
 ```
 
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,100:0D1117&height=120&section=footer&animation=fadeIn" width="100%"/>
 
-`connection terminated.`
+`root@fsociety:~# connection terminated_`
 
 </div>
