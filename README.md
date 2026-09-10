@@ -34,7 +34,7 @@
 root@fsociety:~# whoami
 ```
 ```
-Felix Koomson — computer scientist / security engineer
+Hackexdecodebreaker — computer scientist / security engineer
 Primary directive: break things, then explain how to fix them.
 Clearance level: root. Trust: none. Logs: cleared.
 ```
@@ -139,11 +139,11 @@ HAVE TO     WANT░█     IT BAD           ENOUGH
 ### `root@fsociety:~# cat /etc/contact.conf`
 
 ```
-LINKEDIN  ::  https://www.linkedin.com/in/felix-koomson-43745024a
-YOUTUBE   ::  https://www.youtube.com/@Techmania00/videos
+LINKEDIN  ::  https://www.linkedin.com/in/felix-koomson
+YOUTUBE   ::  https://www.youtube.com/@Techmania00
 BLOG      ::  https://xcyberex00.wordpress.com/
-PORTFOLIO ::  https://xcyberexportfolio.vercel.app
-EMAIL     ::  fkoomson625@gmail.com
+
+
 ```
 
 <div align="center">
