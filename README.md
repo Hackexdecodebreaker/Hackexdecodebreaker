@@ -3,16 +3,13 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00FF41&height=180&section=header&text=fsociety&fontSize=42&fontColor=00FF41&animation=fadeIn&fontAlignY=40&desc=Hackexdecodebreaker&descAlignY=62&descSize=16" width="100%"/>
 
 ```
- ▓█████▄  ██▓  ██████  ██▓███   ██▓    ▄▄▄     ▓██   ██▓
- ▒██▀ ██▌▓██▒▒██    ▒ ▓██░  ██▒▓██▒   ▒████▄    ▒██  ██▒
- ░██   █▌▒██▒░ ▓██▄   ▓██░ ██▓▒▒██░   ▒██  ▀█▄   ▒██ ██░
- ░▓█▄   ▌░██░  ▒   ██▒▒██▄█▓▒ ▒▒██░   ░██▄▄▄▄██  ░ ▐██▓░
- ░▒████▓ ░██░▒██████▒▒▒██▒ ░  ░░██████▒▓█   ▓██▒ ░ ██▒▓░
-  ▒▒▓  ▒ ░▓  ▒ ▒▓▒ ▒ ░▒▓▒░ ░  ░░ ▒░▓  ░▒▒   ▓▒█░  ██▒▒▒ 
-  ░ ▒  ▒  ▒ ░░ ░▒  ░ ░░▒ ░     ░ ░ ▒  ░ ▒   ▒▒ ░▓██ ░▒░ 
-  ░ ░  ░  ▒ ░░  ░  ░  ░░         ░ ░    ░   ▒   ▒ ▒ ░░  
-    ░     ░        ░                        ░  ░░ ░     
-  ░                                              ░ ░     
+█   █  █   █   ███    ███   █   █  █████
+█   █  █   █  █   █  █   █  ██ ██    █  
+█   █  █   █  █   █  █   █  █ █ █    █  
+█ █ █  █████  █   █  █████  █ █ █    █  
+█ █ █  █   █  █   █  █   █  █   █    █  
+██ ██  █   █  █   █  █   █  █   █    █  
+█   █  █   █   ███   █   █  █   █  █████   
 ```
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00FF41&background=0D1117&center=true&vCenter=true&width=650&height=60&lines=Hello%2C+friend.;whoami;Felix+Koomson+%E2%80%94+security+%2B+software+engineer;Are+you+watching+closely%3F;We+do+not+forgive.+We+do+not+forget.;Access+granted." alt="Typing SVG" />
@@ -48,7 +45,7 @@ root@fsociety:~# cat mission.txt
 > Control is an illusion — until you're the one holding it.
 
 ---
-
+<img src="glitch-banner.svg" width="100%"/>
 ### `root@fsociety:~# ls -la /skills`
 
 ```
