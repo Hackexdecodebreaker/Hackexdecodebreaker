@@ -12,7 +12,7 @@
 █   █  █   █   ███   █   █  █   █  █████   
 ```
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00FF41&background=0D1117&center=true&vCenter=true&width=650&height=60&lines=Hello%2C+friend.;whoami;Felix+Koomson+%E2%80%94+security+%2B+software+engineer;Are+you+watching+closely%3F;We+do+not+forgive.+We+do+not+forget.;Access+granted." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00FF41&background=0D1117&center=true&vCenter=true&width=650&height=60&lines=Hello%2C+friend.;whoami;Hackexdecodebreakr+%E2%80%94+security+%2B+software+engineer;Are+you+watching+closely%3F;We+do+not+forgive.+We+do+not+forget.;Access+granted." alt="Typing SVG" />
 
 <img src="https://raw.githubusercontent.com/Hackexdecodebreaker/Hackexdecodebreaker/main/matrix-rain.svg" width="100%"/>
 
