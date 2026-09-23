@@ -49,11 +49,12 @@ root@fsociety:~# cat mission.txt
 ### `root@fsociety:~# ls -la /skills`
 
 ```
-drwxr-xr-x  cybersecurity/        # pentesting, recon, exploit research
-drwxr-xr-x  software-engineering/ # enterprise platforms, automation, backend
+drwxr-xr-x  Security Engineer/        # pentesting, recon, exploit research
+drwxr-xr-x  Developer/ 
 drwxr-xr-x  telegram-dev/         # bots + apps, telepot + python
 drwxr-xr-x  databases/            # mysql, sql server, sqlalchemy, mongodb (wip)
 drwxr-xr-x  webxr/                # a-frame, vr experiments
+drwxr-xr-x  /
 -rw-------  classified.txt        # permission denied
 ```
 
